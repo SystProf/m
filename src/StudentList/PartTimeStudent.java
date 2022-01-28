@@ -6,8 +6,8 @@
 package StudentList;
 
 /**
- *
- * @author Megha Patel
+ *This class is a model class for parttime students which is extended from student class
+ * @author Megha Patel,2022
  */
 public class PartTimeStudent extends Student {
 
